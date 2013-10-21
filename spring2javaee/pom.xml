@@ -20,8 +20,8 @@
    </modules>
 
    <scm>
-      <connection>scm:git:ssh://git@github.com:ivargrimstad/samples.git</connection>
-      <developerConnection>scm:git:ssh://git@github.com:ivargrimstad/samples.git</developerConnection>
+      <connection>scm:git:ssh://github.com/ivargrimstad/samples.git</connection>
+      <developerConnection>scm:git:ssh://git@github.com/ivargrimstad/samples.git</developerConnection>
    </scm>
 
 </project>
