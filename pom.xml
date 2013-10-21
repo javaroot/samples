@@ -15,6 +15,7 @@
    
    <modules>
       <module>spring2javaee</module>
+      <module>design4cd</module>
    </modules>
    
    <scm>
